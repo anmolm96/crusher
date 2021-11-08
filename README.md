@@ -19,18 +19,18 @@
 </p>
 
 <p align="center">
-    <a href="#">Download</a> ·
+    <a href="https://docs.crusher.dev/docs/download">Download</a> ·
     <a href="#-start-using-crusher">Install & Use</a> ·
     <a href="https://docs.crusher.dev">Documentation</a> ·
 </p>
 
 
 <p align="center">
-    <a href="htttps://google.com">
+    <a href="https://docs.crusher.dev/docs/download">
         <img src="https://i.imgur.com/syIvezv.png" height="44"/>
     </a>
-   <a href="htttps://google.com" style="margin-left: 15PX;">
-        <img src="https://i.imgur.com/lZGYguu.png" height="44"/>
+   <a href="#-start-using-crusher" style="margin-left: 15PX;">
+        <img src="https://i.imgur.com/aPm14Bb.png" height="44"/>
     </a>
 </p>
 <br/>
