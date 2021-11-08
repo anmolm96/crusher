@@ -24,8 +24,15 @@
     <a href="https://docs.crusher.dev">Documentation</a> ·
 </p>
 
-<img src="https://i.imgur.com/8DUE0TL.png" height="44"/>
 
+<p align="center">
+    <a href="htttps://google.com">
+        <img src="https://i.imgur.com/syIvezv.png" height="44"/>
+    </a>
+   <a href="htttps://google.com" style="margin-left: 15PX;">
+        <img src="https://i.imgur.com/lZGYguu.png" height="44"/>
+    </a>
+</p>
 <br/>
     
 <hr/>
