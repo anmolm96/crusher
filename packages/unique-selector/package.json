@@ -4,7 +4,6 @@
 	"description": "",
 	"main": "src/index.ts",
 	"author": "Utkarsh Dixit<utkarsh@crusher.dev>",
-	"license": "MIT",
 	"scripts": {
 		"build": "webpack -c webpack.config.prod.js",
 		"serve": "webpack serve -c webpack.config.dev.js"

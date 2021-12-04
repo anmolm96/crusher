@@ -5,7 +5,6 @@
 	"description": "Test runner utils for crusher tests",
 	"main": "src/index.ts",
 	"author": "Utkarsh Dixit<utkarsh@crusher.dev>",
-	"license": "MIT",
 	"scripts": {
 		"build": "webpack",
 		"test": "jest"

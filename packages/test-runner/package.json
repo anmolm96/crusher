@@ -49,5 +49,4 @@
 		"lint": "prettier --write **/* && prettier --write **/**/* && prettier --write **/**/**/* && prettier --write *"
 	},
 	"author": "Utkarsh Dixit<utkarsh@crusher.dev>",
-	"license": "ISC"
 }
